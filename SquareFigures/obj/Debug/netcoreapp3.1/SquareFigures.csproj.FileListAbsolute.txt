@@ -1,0 +1,16 @@
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.exe
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.deps.json
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.runtimeconfig.json
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.runtimeconfig.dev.json
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.dll
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareFigures.pdb
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareLibrary.dll
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\bin\Debug\netcoreapp3.1\SquareLibrary.pdb
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.AssemblyInfo.cs
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.csproj.CopyComplete
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.dll
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.pdb
+C:\Users\Olga\source\repos\SquareFigures\SquareFigures\obj\Debug\netcoreapp3.1\SquareFigures.genruntimeconfig.cache

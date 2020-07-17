@@ -1,0 +1,9 @@
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\bin\Debug\netcoreapp3.1\SquareLibrary.deps.json
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\bin\Debug\netcoreapp3.1\SquareLibrary.dll
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\bin\Debug\netcoreapp3.1\SquareLibrary.pdb
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.AssemblyInfoInputs.cache
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.AssemblyInfo.cs
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.dll
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.pdb
+C:\Users\Olga\source\repos\SquareFigures\SquareLibrary\obj\Debug\netcoreapp3.1\SquareLibrary.csprojAssemblyReference.cache

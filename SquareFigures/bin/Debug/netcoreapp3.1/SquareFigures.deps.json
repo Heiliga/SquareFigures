@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SquareFigures/1.0.0": {
+        "dependencies": {
+          "SquareLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SquareFigures.dll": {}
+        }
+      },
+      "SquareLibrary/1.0.0": {
+        "runtime": {
+          "SquareLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SquareFigures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SquareLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

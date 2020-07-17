@@ -1,0 +1,6 @@
+
+Предпологаются 2 сущности между которым связь М:М, поэтому на основе перехода
+ инфологической модели к датологической(реляционной) создается 3-ье отношение(таблица) - Product_Сategory 
+ с 3 атрибутами(id_Product_Сategory, id_Product, id_Сategory), тогда:
+
+SELECT id_Product, id_Сategory FROM Product_Сategory;

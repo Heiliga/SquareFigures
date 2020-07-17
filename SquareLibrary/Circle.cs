@@ -14,7 +14,7 @@ namespace SquareLibrary
 
         public override double squareFig()
         {
-            return Square.pi * Math.Pow(radiusFigure, 2);
+            return ISquare.pi * Math.Pow(radiusFigure, 2);
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SquareLibrary
 {
-    interface Square
+    interface ISquare
     {
         const double pi = 3.14;
         double squareFig();

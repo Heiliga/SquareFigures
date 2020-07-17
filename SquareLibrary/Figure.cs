@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SquareLibrary
 {
-    public abstract class Figure : Square
+    public abstract class Figure : ISquare
     {
         public double sideFigure_a { get; set; }
         public double sideFigure_b { get; set; }
